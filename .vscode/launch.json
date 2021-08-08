@@ -4,6 +4,15 @@
     // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
     "version": "0.2.0",
     "configurations": [
+    
+        {
+            "type": "java",
+            "name": "Launch OkJavaGoinHomeInput",
+            "request": "launch",
+            "mainClass": "OkJavaGoinHomeInput",
+            "projectName": "JAVA_1_5af6e6c7",
+            "args": ["JAVA APT 507", "45.0"]
+        },
         {
             "type": "java",
             "name": "Launch Current File",
