@@ -1,5 +1,3 @@
-import javax.swing.JOptionPane;
-
 import org.opentutorials.iot.DimmingLights;
 import org.opentutorials.iot.Elevator;
 import org.opentutorials.iot.Lighting;
