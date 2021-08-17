@@ -6,6 +6,14 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch AccountingApp",
+            "request": "launch",
+            "mainClass": "AccountingApp",
+            "projectName": "JAVA_1_5af6e6c7",
+            "args": "40000.0"
+        },
+        {
+            "type": "java",
             "name": "Launch InstanceApp",
             "request": "launch",
             "mainClass": "InstanceApp",
